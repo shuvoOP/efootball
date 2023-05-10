@@ -1,0 +1,30 @@
+.col {
+	color: white;
+background-color: grey;
+border: 2px solid black;
+text-align: center;
+height: 50px;
+font-weight: bolder;
+}
+
+h2 { 
+	color: white;
+	margin: 100px 50px;
+
+	text-align: center;
+}
+body{
+
+background-image: url(https://img.freepik.com/free-vector/gradient-style-football-field-background_23-2148995842.jpg?w=900&t=st=1683622960~exp=1683623560~hmac=7ca158e92c72dcddd740281f03e8b8b9e9eeba7f0e65b65b9d498bd79285714c);
+background-size: cover;
+background-image: url(https://as1.ftcdn.net/v2/jpg/01/91/49/26/1000_F_191492670_3c0KFlQkkJAtsyamdOGWssR1AWvgVagP.jpg);
+
+}
+footer {
+   clear: both;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+ margin: 110px 100px;
+  
+}

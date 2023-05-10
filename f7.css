@@ -1,0 +1,71 @@
+html{
+
+ background: url(DSC_1461.jpg)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+h1{
+
+
+font-size: 3rem;
+color: white;
+}
+
+.btn-xl{
+
+  padding: 1rem 2rem;
+ 
+}
+.btn{
+
+  font-weight: 700;
+  border-radius: 100px;
+  text-transform: uppercase;
+}
+
+.btn-primary{
+
+   color: whitesmoke;
+  background-color: rgba(0, 169, 0);
+  background-color: green;
+  border-color: white;
+  border-width: 2px;
+}
+.btn-primary:hover{
+
+  background-color: green;
+  border-color: white;
+  border-width: 4px;
+}
+hr {
+
+  border-color: rgba(174, 253, 25);
+  border-width: 3px;
+  max-width: 65px ;
+}
+body{
+
+background-image: url(https://w0.peakpx.com/wallpaper/623/145/HD-wallpaper-soccer-goal-net-dark-field-graphy-field-soccer-dark-graphy.jpg);
+background-size: cover;
+}
+
+.buffer{
+
+  height: 5rem;
+}
+ .btn-link{
+
+  color: rgba(239, 15, 83);
+ }
+
+ .btn-link:hover{
+
+  color: rgba(205, 13, 196);
+  border-color: white;
+  border-width: 4px;
+ }
